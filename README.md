@@ -1,1 +1,1 @@
-systen devops
+shell permissions
